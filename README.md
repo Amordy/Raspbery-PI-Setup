@@ -7,3 +7,4 @@ sudo apt-get upgrade
 
 sudo rpi-update 52241088c1da59a359110d39c1875cda56496764
 
+line add from github
